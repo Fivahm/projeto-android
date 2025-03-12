@@ -32,6 +32,13 @@
   margin: 0px;
 }
 
+/* ISSO É UMA TENTATIVA DE MUDAR A COR DE FUNDO DO DOCUMENTO */
+/* ASSIM, NO CHROME (ANDROID) A BARRINHA DE BOTÕES NA PARTE DE BAIXO DA TELA */
+/* VAI APARECER VERDE ESCURO, E NÃO BEGE, COMBINANDO MELHOR COM O FOOTER */
+html {
+  background-color: var(--cor6);
+}
+
 body {
   background-color: var(--cor0);
   font-family: var(--fonte-padrao);
